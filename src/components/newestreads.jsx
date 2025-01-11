@@ -19,7 +19,7 @@ const newestreads = () => {
               10 January 2025
             </h1>
             <p className="py-4 font-bold font-serif text-gray-800 text-base sm:text-lg md:text-xl">
-              France seeks to protect Russia&apos;s Morozov collection...
+            France seeks to protect Russia&apos;s Morozov collection Trom seizure as masterpieces return home
             </p>
           </div>
           <button className="self-end text-orange-500 p-4 pt-0 transition duration-300 ease-in-out transform hover:scale-105 hover:text-orange-600">
@@ -35,7 +35,8 @@ const newestreads = () => {
               19 April 2025
             </h1>
             <p className="py-4 font-bold font-serif text-gray-800 text-base sm:text-lg md:text-xl">
-              Picasso&apos;s muse as sea creature...
+            Picasso&apos;s muse as sea creature-will it break $100m at Sotheby&apos;s New
+            York sale?
             </p>
           </div>
           <button className="self-end text-orange-500 p-4 pt-0 transition duration-300 ease-in-out transform hover:scale-105 hover:text-orange-600">
@@ -51,7 +52,7 @@ const newestreads = () => {
               30 October 2025
             </h1>
             <p className="py-4 font-bold font-serif text-gray-800 text-base sm:text-lg md:text-xl">
-              Picasso&apos;s muse as sea creature...
+            Venice Biennale 2022: all the national pavilions, artists and curators
             </p>
           </div>
           <button className="self-end text-orange-500 p-4 pt-0 transition duration-300 ease-in-out transform hover:scale-105 hover:text-orange-600">
